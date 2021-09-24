@@ -1,0 +1,9 @@
+#include <Performer>
+
+main() {
+  // Next window to be created will be created with dimensions 400x400
+  prefsize(400,400);
+  // Create window
+  winopen();
+  
+}
